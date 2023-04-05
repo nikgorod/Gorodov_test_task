@@ -5,7 +5,7 @@
 ## Инструкция по развертыванию на сервере
 
 1. Клонировать репозиторий <br>
-    `git clone `
+    `git clone https://github.com/nikgorod/Gorodov_test_task.git`
 2. Установить необходимые пакеты <br>
     `pip install requirements.txt`
 3. Перейти в папку с проектом<br>
