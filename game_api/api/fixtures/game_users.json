@@ -1,0 +1,1 @@
+[{"model": "api.gameuser", "pk": 11, "fields": {"name": "game_user_1", "stage_1": true, "stage_2": false, "game": [32]}}, {"model": "api.gameuser", "pk": 12, "fields": {"name": "game_user_2", "stage_1": true, "stage_2": false, "game": [33]}}]
