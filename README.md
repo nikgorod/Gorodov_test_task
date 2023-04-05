@@ -7,7 +7,7 @@
 1. Клонировать репозиторий <br>
     `git clone https://github.com/nikgorod/Gorodov_test_task.git`
 2. Установить необходимые пакеты <br>
-    `pip install requirements.txt`
+    `pip install -r requirements.txt`
 3. Перейти в папку с проектом<br>
     `cd game_api`
 4. Выполнить миграции<br>
